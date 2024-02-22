@@ -12,10 +12,7 @@ import android.widget.Button;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.Glide;
-import com.bumptech.glide.annotation.GlideModule;
-import com.bumptech.glide.module.AppGlideModule;
 import org.json.JSONException;
 
 public class MainActivity extends AppCompatActivity {
